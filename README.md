@@ -1,10 +1,14 @@
 # house-price-prediction-ml
 A machine learning project that predicts house prices based on location, size, and property features using regression models.
-##Objectives
+
+#Objectives
+
 * Analyze and preprocess housing data.
 * Perform Exploratory Data Analysis (EDA) to identify key factors affecting price.
 * Build and evaluate predictive models using machine learning.
-  ##Practical Applications
+
+#Practical Applications
+
 *Estimate fair house prices for buyers and sellers.
 *Assist investors in identifying profitable properties.
 *Support banks in loan and mortgage evaluations.
